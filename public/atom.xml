@@ -32,20 +32,20 @@
         <id>http://example.com/2023/05/11/Stockholder-s-equity/</id>
         <title>Stockholder&#39;s equity</title>
         <link rel="alternate" href="http://example.com/2023/05/11/Stockholder-s-equity/"/>
-        <content type="html">&lt;p&gt;&lt;strong&gt;Cash dividends的发放&lt;/strong&gt;：Date of declaration， Ex-dividend date,Date of record,Date of payment.&lt;/p&gt;
-&lt;p&gt; ——&lt;/p&gt;
-&lt;p&gt;1.宣告日  记录一项负债&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Debit&lt;/em&gt; dividends（asset和expense的增长记debit,其他反）              &lt;/p&gt;
-&lt;p&gt;​     &lt;em&gt;Credit&lt;/em&gt;  Dividends payable&lt;/p&gt;
-&lt;p&gt;4.付款日  由现金结清负债（payable）&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Stock dividends的发放&lt;/strong&gt; 并不改变总体的stockholder’s equity, par values也没有发生改变。所有股东都保有相同比例的股权（ownership）&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;strong&gt;Cash dividends 的发放&lt;/strong&gt;：Date of declaration， Ex-dividend date,Date of record,Date of payment.&lt;/p&gt;
 &lt;p&gt;——&lt;/p&gt;
-&lt;p&gt;1.宣告日 并不记录负债&lt;/p&gt;
+&lt;p&gt;1. 宣告日  记录一项负债&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Debit&lt;/em&gt; dividends（asset 和 expense 的增长记 debit, 其他反）&lt;/p&gt;
+&lt;p&gt;​     &lt;em&gt;Credit&lt;/em&gt;  Dividends payable&lt;/p&gt;
+&lt;p&gt;4. 付款日  由现金结清负债（payable）&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Stock dividends 的发放&lt;/strong&gt; 并不改变总体的 stockholder’s equity, par values 也没有发生改变。所有股东都保有相同比例的股权（ownership）&lt;/p&gt;
+&lt;p&gt;——&lt;/p&gt;
+&lt;p&gt;1. 宣告日 并不记录负债&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Debit&lt;/em&gt; Retained Earnings&lt;/p&gt;
 &lt;p&gt;​     &lt;em&gt;Credit&lt;/em&gt;  Stock Dividend to be Distributed&lt;/p&gt;
-&lt;p&gt;​                  Additional Paid-in Capital:Stock Dividend(对于缴入资本溢价的分配)&lt;/p&gt;
-&lt;p&gt;4.付款日 由stock结清股票股息&lt;/p&gt;
+&lt;p&gt;​                  Additional Paid-in Capital:Stock Dividend (对于缴入资本溢价的分配)&lt;/p&gt;
+&lt;p&gt;4. 付款日 由 stock 结清股票股息&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Debit&lt;/em&gt; Stock Dividend to be Distributed&lt;/p&gt;
 &lt;p&gt;​      &lt;em&gt;Credit&lt;/em&gt;   Common Stock&lt;/p&gt;
 </content>
