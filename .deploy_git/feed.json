@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "望江处",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/05/24/mayday-mayday/",
+            "url": "http://example.com/2023/05/24/mayday-mayday/",
+            "title": "mayday mayday",
+            "date_published": "2023-05-24T02:24:07.000Z",
+            "content_html": "<p>I‘m the storm that is approaching!!!</p>\n",
+            "tags": [
+                "Test"
+            ]
+        },
+        {
+            "id": "http://example.com/2023/05/21/Cost-Accounting-Systems/",
+            "url": "http://example.com/2023/05/21/Cost-Accounting-Systems/",
+            "title": "Cost Accounting Systems",
+            "date_published": "2023-05-21T09:16:02.000Z",
+            "content_html": "<p><strong>Period Cost</strong>：Costs that cannot be capitalized on balance sheet  and they are expensed in the period incurred and appear on the income statement. 在管理会计中，用于指不与产品、库存相关的费用，比如销售、公司管理、营销费用，工资、租赁费用。</p>\n<p><strong>Production Cost</strong>：为生产产品而发生的成本，包括各项直接指出和制造费用 (车间、工厂为组织、管理生产发生的各种费用：工厂人员工资、折旧费 and so on))：direct material，direct labor</p>\n<p>完全成本法（Absorption Costing System），分为订单法 Job order costing 和分步法 Process costing</p>\n<p>・Job costing 适合需要定制化的生产流程：广告宣传服务、审计服务・・</p>\n<p>・process costing 适合标准化生产的产品流程：汽车制造・・</p>\n",
+            "tags": [
+                "会计学"
+            ]
+        },
+        {
+            "id": "http://example.com/2023/05/11/Stockholder-s-equity/",
+            "url": "http://example.com/2023/05/11/Stockholder-s-equity/",
+            "title": "Stockholder's equity",
+            "date_published": "2023-05-11T04:57:29.000Z",
+            "content_html": "<p><strong>Cash dividends的发放</strong>：Date of declaration， Ex-dividend date,Date of record,Date of payment.</p>\n<p> ——</p>\n<p>1.宣告日  记录一项负债</p>\n<p><em>Debit</em> dividends（asset和expense的增长记debit,其他反）              </p>\n<p>​     <em>Credit</em>  Dividends payable</p>\n<p>4.付款日  由现金结清负债（payable）</p>\n<hr>\n<p><strong>Stock dividends的发放</strong> 并不改变总体的stockholder’s equity, par values也没有发生改变。所有股东都保有相同比例的股权（ownership）</p>\n<p>——</p>\n<p>1.宣告日 并不记录负债</p>\n<p><em>Debit</em> Retained Earnings</p>\n<p>​     <em>Credit</em>  Stock Dividend to be Distributed</p>\n<p>​                  Additional Paid-in Capital:Stock Dividend(对于缴入资本溢价的分配)</p>\n<p>4.付款日 由stock结清股票股息</p>\n<p><em>Debit</em> Stock Dividend to be Distributed</p>\n<p>​      <em>Credit</em>   Common Stock</p>\n",
+            "tags": [
+                "会计学"
+            ]
+        }
+    ]
+}
